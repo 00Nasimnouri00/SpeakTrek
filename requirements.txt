@@ -1,0 +1,10 @@
+librosa
+matplotlib
+numpy
+python-dotenv
+pydub
+ffmpeg-python
+requests
+assemblyai
+pyTelegramBotAPI
+ipython
